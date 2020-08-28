@@ -1,12 +1,12 @@
-#JavaScript Forkify App
+# JavaScript Forkify App
 
-##Running
+## Running
 After downloading or cloning the repo, type npm run start in the terminal to load the application locally on localhost.
 
-##Note
+## Note
 You will need to sign up for an API key at Food2Fork to use in Recipe.js.
 
-##Built With
+## Built With
 Webpack
 Babel
 JavaScript
